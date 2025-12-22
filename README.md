@@ -1,6 +1,8 @@
 # Earthy Organics - Natural Lion's Mane Supplements Website
 
 **Developer:** StynerDev  
+**Portfolio:** [styner.dev](https://www.styner.dev/)  
+**GitHub:** [@stynerdev225](https://github.com/stynerdev225)  
 **Project Type:** Multi-page Business Website  
 **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap  
 **Version:** 1.0.0  
