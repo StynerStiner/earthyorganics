@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Earthly Organics Website",
     "scripts": {
-        "dev": "live-server ./download\\ version --port=3000 --host=localhost",
+        "dev": "live-server ./public --port=3000 --host=localhost",
         "docs": "live-server ./documentation --port=3001 --host=localhost"
     },
     "devDependencies": {
