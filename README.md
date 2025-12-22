@@ -257,8 +257,10 @@ Edit navigation in each HTML file (around line 140-310):
 Professional Web Development Services
 
 For technical support, updates, or new features:
-- Inquiries: [your-email@domain.com]
-- Emergency support available
+- 🌐 Portfolio: [styner.dev](https://www.styner.dev/)
+- 💼 GitHub: [@stynerdev225](https://github.com/stynerdev225)
+- 📧 Inquiries: Available through portfolio
+- 🚨 Emergency support available
 
 ---
 
