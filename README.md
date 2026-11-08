@@ -2,7 +2,7 @@
 
 **Developer:** StynerDev  
 **Portfolio:** [styner.dev](https://www.styner.dev/)  
-**GitHub:** [@stynerdev225](https://github.com/stynerdev225)  
+**GitHub:** [@StynerStiner](https://github.com/StynerStiner)  
 **Project Type:** Multi-page Business Website  
 **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap  
 **Version:** 1.0.0  
@@ -258,7 +258,7 @@ Professional Web Development Services
 
 For technical support, updates, or new features:
 - 🌐 Portfolio: [styner.dev](https://www.styner.dev/)
-- 💼 GitHub: [@stynerdev225](https://github.com/stynerdev225)
+- 💼 GitHub: [@StynerStiner](https://github.com/StynerStiner)
 - 📧 Inquiries: Available through portfolio
 - 🚨 Emergency support available
 
